@@ -1,3 +1,4 @@
+console.log("OO초등학교 1학년 1반 성적");
 const grades = [
 	[ "kim" , { "math" : 90, "korean" : 80, "english" : 90} ],
 	[ "song" , { "math" : 50, "korean" : 40, "english" : 60} ],
